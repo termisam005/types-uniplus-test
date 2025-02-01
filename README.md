@@ -6,7 +6,7 @@
 회사공용으로 제공하는 목적으로 제작되었습니다.
 
 ```
-- git clone http://git.uinetworks.kr/design/uniplus_template.git
+- git clone https://github.com/termisam005/types-uniplus-test.git
 - npm install
 - npm start
 ```
